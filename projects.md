@@ -8,4 +8,4 @@
 
 - Colorful boxes that have either "X" or "O" inside them.
 
-  <img src= 
+  <img src="Screenshot 2025-10-08 at 20.56.12.png" width="650">
