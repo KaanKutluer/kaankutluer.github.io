@@ -24,6 +24,10 @@
 
 - And that is how I created my simple but glamarous clock.
 
+### **[Swift Playground - Scoop Overflow  (The Melting Ice Cream of Greed)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)**
+
+- 
+
 <br>
 
 # **[Practice Projects](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Projects)**
@@ -34,7 +38,7 @@
 
   <img src="Screenshot 2025-10-08 at 20.56.12.png" width="650">
 
-### **[Swift Playground - Calculator](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)**
+### **[Swift Playground - Calc-Calc Calculator](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)**
 
 - A calculator app that does (you guessed it!) calculations via the inputs the user puts into the system.
 
