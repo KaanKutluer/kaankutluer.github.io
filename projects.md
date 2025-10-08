@@ -32,7 +32,7 @@
 
 - Also, here is the very simple code for the overflow and the scoop adding (REALLY simple, trust):
 
-<img src="
+<img src="Screenshot 2025-10-08 at 22.52.48.png" width="650">
 
 <br>
 
