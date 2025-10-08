@@ -28,7 +28,7 @@
 
 - A simple ice cream simulatiın where you can add scoops of ice cream onto an ice cream cone. But, the catch is that if you pass five scoop, it overflows back to zero scoops (PS, I know that my ice cream is a bit cursed).
 
-<img src="
+<img src="Screenshot 2025-10-08 at 22.49.30.png" width="650">
 
 - Also, here is the code for the overflow (pretty simple for you):
 
