@@ -8,6 +8,22 @@
 
 <img src="Screenshot 2025-10-08 at 22.12.38.png" width="650">
 
+### **[Swift Playground - Clock V5  (The Honoured Clock)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)**
+
+- This is how I created "The Honored Clock" which shall be remembered for its simple perfection.
+
+  <img src="
+
+- For this project, me and my partner decided to pick our target auidence as teenagers (since we are also teenagers). After that, we collected some images that would fit the bill for the design we had in mind through google and put them on a Figjam Ideas Board. We decided on the two we liked the most after that:
+
+<img src="
+
+-After the idea-phase, we started to make our seperate designs. I used the hands on the first clock and simplfied them further while also adding numbers around the clock to make it look more basic. After that, I simply used my previous code and added the numbers around the clock while also adding a "Jump to Random Hour" function for fun:
+
+<img src="
+
+-And that is how I created my simple but glamarous clock.
+
 <br>
 
 # **[Practice Projects](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Projects)**
