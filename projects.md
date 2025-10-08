@@ -18,7 +18,7 @@
 
 <img src="Screenshot 2025-10-08 at 22.34.34.png" width="650">
 
-- After the idea-phase, we started to make our seperate designs. I used the hands on the first clock and simplfied them further while also adding numbers around the clock to make it look more basic. After that, I simply used my previous code and added the numbers around the clock while also adding a "Jump to Random Hour" function for fun:
+- After the idea-phase, we started to make our seperate designs. I used the hands on the first clock and simplfied them further while also adding numbers around the clock to make it look more basic. After that, I simply used my previous code and added the numbers around the clock while also adding a "Jump to Random Hour" function for fun which allowed me to learn about the ForEach function:
 
 <img src="Screenshot 2025-10-08 at 22.35.28.png" width="650">
 
