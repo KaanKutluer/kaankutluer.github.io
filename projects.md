@@ -16,7 +16,7 @@
 
 - For this project, me and my partner decided to pick our target auidence as teenagers (since we are also teenagers). After that, we collected some images that would fit the bill for the design we had in mind through google and put them on a Figjam Ideas Board. We decided on the two we liked the most after that:
 
-<img src="
+<img src="Screenshot 2025-10-08 at 22.34.34.png" width="650">
 
 - After the idea-phase, we started to make our seperate designs. I used the hands on the first clock and simplfied them further while also adding numbers around the clock to make it look more basic. After that, I simply used my previous code and added the numbers around the clock while also adding a "Jump to Random Hour" function for fun:
 
