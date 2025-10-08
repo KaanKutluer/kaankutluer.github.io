@@ -26,7 +26,13 @@
 
 ### **[Swift Playground - Scoop Overflow  (The Melting Ice Cream of Greed)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)**
 
-- 
+- A simple ice cream simulatiın where you can add scoops of ice cream onto an ice cream cone. But, the catch is that if you pass five scoop, it overflows back to zero scoops (PS, I know that my ice cream is a bit cursed).
+
+<img src="
+
+- Also, here is the code for the overflow (pretty simple for you):
+
+<img src="
 
 <br>
 
