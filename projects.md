@@ -23,4 +23,3 @@
 - Simplest Tic-Tac-Toe Game (Literally)
 
   <img src="XOXcodeimage.png" width="650">
-  <img src="
