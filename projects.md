@@ -4,3 +4,8 @@
 
 <br>
 
+### **[Swift - Fake XOX You Can't Play](https://kaankutluer.github.io/kaankutluer.github.io/tree/main/Projects/Swift)**
+
+- Colorful boxes that have either "X" or "O" inside them.
+
+  <img src= 
