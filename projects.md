@@ -23,7 +23,7 @@
 **[The Full Code with all the Comments](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground/Calculator App Codes with Comments)**
 
 <br>
-## **[Practice Project Of Scratch](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Scratch_Project)**
+# **[Practice Project Of Scratch](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Scratch_Project)**
 
 ### **[Scratch - Toe Tac Tic That You Can Actually Play!](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Block_Coding)**
 
