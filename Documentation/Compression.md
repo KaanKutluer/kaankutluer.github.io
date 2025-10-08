@@ -7,7 +7,7 @@
 
 ### ***Data Compression***
 
-#### ***1. Why does data get compressed and what algorithms are used?***
+#### ***1. Why does data get compressed and what algorithms are used?***
 
 - *Data compression happens because digital files often have repeating patterns or extra information that can be stored more efficiently. The goal is to make the file smaller without losing meaning. Lossless algorithms keep all data while Lossy algorithms remove some data that humans don’t notice. This happens with algorithms like Huffman coding, Run-Length Encoding and etc.*
 
