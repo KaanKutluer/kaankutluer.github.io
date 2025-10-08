@@ -6,4 +6,4 @@
 
 ### ***Big Idea 1***
 
-[1.1 Reflection](https://kaankutluer.github.io/Bigideas/Big_Ideas1Reflections/1.1)  
+[1.1 Reflection](https://kaankutluer.github.io/Bigideas/Big_Ideas1Reflections/1)  
