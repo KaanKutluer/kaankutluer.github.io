@@ -6,7 +6,7 @@
 
 - A pretty basic clock app that changes the hour and/or minute once the buttons on the screen are clicked accordingly. Show the hour and the minute(s) while also showing whether it is AM or PM.
 
-<img src="
+<img src="Screenshot 2025-10-08 at 22.12.38.png" width="650">
 
 <br>
 
