@@ -24,6 +24,6 @@
 
 ### **[Scratch - Toe Tac Tic That You Can Actually Play!](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Block_Coding)**
 
-- Simplest Tic-Tac-Toe Game (Literally)
+- Simplest Tic-Tac-Toe Game (Literally). The game is meant to be played with a friend (you probably don't have one like me), with each click switching each box between X, O and blank.
 
   <img src="XOXcodeimage.png" width="650">
