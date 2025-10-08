@@ -6,7 +6,7 @@
 
 <br>
 
-# **[Practice Projects](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Swift_Playground_Projects)**
+# **[Practice Projects](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Projects)**
 
 ### **[Swift Playground - Fake XOX You Can't Play](https://kaankutluer.github.io/kaankutluer.github.io/tree/main/Projects/Swift_Playground)**
 
@@ -21,9 +21,6 @@
   <img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
 
 **[The Full Code with all the Comments](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground/Calculator App Codes with Comments)**
-
-<br>
-# **[Practice Project Of Scratch](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Scratch_Project)**
 
 ### **[Scratch - Toe Tac Tic That You Can Actually Play!](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Block_Coding)**
 
