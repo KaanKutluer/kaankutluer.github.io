@@ -12,6 +12,6 @@
 
 ### **[Swift- Calculator](https://kaankutluer.github.io/kaankutluer.github.io/tree/main/Projects/Swift)**
 
-- A calculator app that does (you guessed it) calculations via the inputs the user puts into the system.
+- A calculator app that does (you guessed it!) calculations via the inputs the user puts into the system.
 
-  <img src="
+  <img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
