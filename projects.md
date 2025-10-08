@@ -35,7 +35,7 @@
 
 <img src="Screenshot 2025-10-08 at 22.52.48.png" width="650">
 
-### ***[Swift Playground - Binary Challenge (I Ran Out of Ideas for a Funny Titl at 1AM)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)***
+### ***[Swift Playground - Binary Challenge (I Ran Out of Ideas for a Funny Title at 1AM)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)***
 
 - *A challenge to create an 4-Bit (1-16 with 16 not being included) ID Counter which has both binary form and decimal form.*
 
