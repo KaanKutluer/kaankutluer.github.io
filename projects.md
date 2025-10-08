@@ -17,3 +17,10 @@
   <img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
 
 **[The Full Code with all the Comments](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground/Calculator App Codes with Comments)**
+
+### **[Scratch - Toe Tac Tic That You Can Actually Play!](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Block_Coding)**
+
+- Simplest Tic-Tac-Toe Game (Literally)
+
+  <img src="XOXcodeimage.png" width="650">
+  <img src="
