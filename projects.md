@@ -30,7 +30,7 @@
 
 <img src="Screenshot 2025-10-08 at 22.49.30.png" width="650">
 
-- Also, here is the code for the overflow (pretty simple for you):
+- Also, here is the very simple code for the overflow and the scoop adding (REALLY simple, trust):
 
 <img src="
 
