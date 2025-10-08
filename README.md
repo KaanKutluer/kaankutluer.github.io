@@ -2,7 +2,7 @@
 
 # **![Kaan Ege Kutluer]()**
 
-## **Github Pages**
+## **My Github Site**
 
 This is a Github site to virtually document my Ap CS Principles school projects.
 (If I can SOMEHOW manage Github and not fumble)
