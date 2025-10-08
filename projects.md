@@ -4,6 +4,8 @@
 
 <br>
 
+# **[Practice Projects](https://github.com/badebasligil/kaankutluer.github.io/tree/main/Project/Practice_Swift_Playground_Projects)**
+
 ### **[Swift Playground - Fake XOX You Can't Play](https://kaankutluer.github.io/kaankutluer.github.io/tree/main/Projects/Swift_Playground)**
 
 - Colorful boxes that have either "X" or "O" inside them.
@@ -17,6 +19,8 @@
   <img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
 
 **[The Full Code with all the Comments](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground/Calculator App Codes with Comments)**
+
+<br>
 
 ### **[Scratch - Toe Tac Tic That You Can Actually Play!](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Block_Coding)**
 
