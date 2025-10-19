@@ -9,7 +9,7 @@
 
 - *Score: 19/21*
 
-<img scr="Screenshot 2025-10-20 at 01.04.07.png" width="650">
+<img src="Screenshot 2025-10-20 at 01.04.07.png" width="650">
 
 - *Questions I Got Wrong:*
 
