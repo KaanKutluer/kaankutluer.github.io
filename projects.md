@@ -2,13 +2,13 @@
 
 # ***Projects***
 
-### ***[Swift Playground - Clock V3  (The Final Before the Actual Final Version: V5)]***
+### ***Swift Playground - Clock V3  (The Final Before the Actual Final Version: V5)***
 
 - *A pretty basic clock app that changes the hour and/or minute once the buttons on the screen are clicked accordingly. Show the hour and the minute(s) while also showing whether it is AM or PM.*
 
 <img src="Screenshot 2025-10-08 at 22.12.38.png" width="650">
 
-### ***[Swift Playground - Clock V5  (The Honoured Clock)]***
+### ***Swift Playground - Clock V5  (The Honoured Clock)***
 
 - *This is how I created "The Honored Clock" which shall be remembered for its simple perfection.*
 
@@ -25,7 +25,7 @@
 
 - *And that is how I created my simple but glamarous clock.*
 
-### ***[Swift Playground - Scoop Overflow  (The Melting Ice Cream of Greed)]***
+### ***Swift Playground - Scoop Overflow  (The Melting Ice Cream of Greed)***
 
 - *A simple ice cream simulatiın where you can add scoops of ice cream onto an ice cream cone. But, the catch is that if you pass five scoop, it overflows back to zero scoops (PS, I know that my ice cream is a bit cursed).*
 
@@ -35,7 +35,7 @@
 
 <img src="Screenshot 2025-10-08 at 22.52.48.png" width="650">
 
-### ***[Swift Playground - Binary Challenge (I Ran Out of Ideas for a Funny Title at 1AM)]***
+### ***Swift Playground - Binary Challenge (I Ran Out of Ideas for a Funny Title at 1AM)***
 
 - *A challenge to create an 4-Bit (1-16 with 16 not being included) ID Counter which has both binary form and decimal form.*
 
@@ -45,21 +45,21 @@
 
 <br>
 
-# ***[Practice Projects]***
+# ***Practice Projects***
 
-### ***[Swift Playground - Fake XOX You Can't Play]***
+### ***Swift Playground - Fake XOX You Can't Play***
 
 - *Colorful boxes that have either "X" or "O" inside them.*
 
   <img src="Screenshot 2025-10-08 at 20.56.12.png" width="650">
 
-### ***[Swift Playground - Calc-Calc Calculator]***
+### ***Swift Playground - Calc-Calc Calculator***
 
 - *A calculator app that does (you guessed it!) calculations via the inputs the user puts into the system.*
 
   <img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
 
-### ***[Scratch - Toe Tac Tic That You Can Actually Play!]***
+### ***Scratch - Toe Tac Tic That You Can Actually Play!***
 
 - *Simplest Tic-Tac-Toe Game (Literally). The game is meant to be played with a friend (you probably don't have one like me), with each click switching each box between X, O and blank.*
 
