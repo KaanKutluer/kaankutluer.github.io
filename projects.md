@@ -57,7 +57,7 @@
 
 - *Super accurate portrait of myself created by codes.*
 
-  <img src="
+  <img src="Screenshot 2025-10-19 at 23.13.50.png" width="650">
 
 ### ***Swift Playground - Calc-Calc Calculator***
 
