@@ -43,9 +43,9 @@
 
 <img src="Screenshot 2025-10-08 at 23.58.12.png" width="650">
 
-### ***Swift Playground - Frog Escape From Hell (This Code Was Plain Hell To Complete)
+### ***Swift Playground - Frog Escape From Hell (This Code Was Plain Hell To Complete)***
 
-- *
+- *An escape game integrated with a timer and maze system involving a silly, little frog that drives me crazy.*
 
 <img src="Screenshot 2025-10-20 at 00.05.08.png" width="650">
 
