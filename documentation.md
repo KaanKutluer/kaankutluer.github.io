@@ -8,6 +8,8 @@
 
 [Scratch XOX](Documentation/ScratchXOX.md)
 
+[Clock V3](Documentation/ClockV3.md)
+
 [Clock V5](Documentation/ClockV5.md)
 
 [Frog Escape](Documentation/FrogEscape.md)
