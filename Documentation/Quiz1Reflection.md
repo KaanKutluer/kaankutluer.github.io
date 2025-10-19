@@ -15,6 +15,13 @@
 
 ### ***Question 13***
 
-- *I got this VERY simple question wrong because I didn't pay enough attention to it and missed a detail which I should have noticed. So this question was rather an unluck mistake than a lack-o'-knowledge mistake. (I picked B while the answer is supposed to be A)
+- *I got this VERY simple question wrong because I didn't pay enough attention to it and missed a detail which I should have noticed. So this question was rather an unluck mistake than a lack-o'-knowledge mistake. (I picked B while the answer is supposed to be A)*
 
-  <img src
+  <img src="" width="650">
+
+### ***Question 21***
+
+- *This question was a rather embarrassing mistake as I flat out got it wrong due to misreading the question. I think I got it wrong mainly because it was the last question and I was tired. other than that, it wasn't a mistake due to a lack of knowledge just like the last one. (I picked D while the answer is supposed to be C)*
+
+  <img src="" width="650">
+
