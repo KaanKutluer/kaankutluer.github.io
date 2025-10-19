@@ -5,3 +5,5 @@
 [Compression](Documentation/Compression.md)
 
 [Quiz 1 Reflection](Documentation/Quiz1Reflection.md)
+
+[Scratch XOX](Documentation/ScratchXOX.md)
