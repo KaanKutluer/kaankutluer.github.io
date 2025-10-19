@@ -41,7 +41,7 @@
 
 <img src="Screenshot 2025-10-08 at 23.57.22.png" width="650">
 
-<img src="Screenshot 2025-10-08 at 23.58.12png" width="650">
+<img src="Screenshot 2025-10-08 at 23.58.12.png" width="650">
 
 ### ***Swift Playground - Frog Escape From Hell (This Code Was Plain Hell To Complete)
 
