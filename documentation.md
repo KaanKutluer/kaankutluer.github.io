@@ -3,3 +3,5 @@
 # ***Documentation***
 
 [Compression](Documentation/Compression.md)
+
+[Quiz 1 Reflection](Documentation/Quiz1Reflection.md)
