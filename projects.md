@@ -53,6 +53,12 @@
 
   <img src="Screenshot 2025-10-08 at 20.56.12.png" width="650">
 
+### ***Swift Playground - Self Portrait (No Face? Unrealistic? YOU'RE unrealistic >:( !)***
+
+- *Super accurate portrait of myself created by codes.*
+
+  <img src="
+
 ### ***Swift Playground - Calc-Calc Calculator***
 
 - *A calculator app that does (you guessed it!) calculations via the inputs the user puts into the system.*
