@@ -7,3 +7,15 @@
 [Quiz 1 Reflection](Documentation/Quiz1Reflection.md)
 
 [Scratch XOX](Documentation/ScratchXOX.md)
+
+[Clock V5](Documentation/ClockV5.md)
+
+[Frog Escape](Documentation/FrogEscape.md)
+
+[Scoop Overflow](Documentation/ScoopOverflow.md)
+
+[Swift Binary Challenge](Documentation/SwiftBinaryChallenge.md)
+
+[Swift Calculator](Documentation/SwiftCalc.md)
+
+[Swift XOX](Documentation/SwiftXOX.md)
