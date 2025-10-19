@@ -1,6 +1,6 @@
 [Home](https://kaankutluer.github.io/kaankutluer.github.io/) | [Projects](projects.md) | [Big Ideas](big_ideas.md) | [Documentation](documentation.md)
 
-# ***[Projects](https://kaankutluer.github.io/kaankutluer.github.io/tree/main/Projects)***
+# ***Projects***
 
 ### ***[Swift Playground - Clock V3  (The Final Before the Actual Final Version: V5)](https://kaankutluer.github.io/kaankutluer.github.io/blob/main/Projects/Swift_Playground)***
 
