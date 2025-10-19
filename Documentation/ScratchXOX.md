@@ -7,8 +7,8 @@
 
 ### ***Scratch XOX***
 
-<img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
-
+  <img src="XOXcodeimage.png" width="650">
+  
 - *This is a simple game I created for this class in Scratch (It was my first time on Scratch). Since it is very late for me and I am very pissed at Github and myself, let's get to how this code works.*
 
 - *How it works: Each sprite has a custom local variable "state" that stores if it is an X, O or empty. When the sprite is clicked it changes and based on that changes its costume. To achieve this, I used if blocks to check which state the sprite was currently at and then I assigned a new value to the custom variable.*
