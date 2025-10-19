@@ -7,7 +7,7 @@
 
 ### ***Scratch XOX***
 
-<img src="XOXcodeimage.png" width="650">
+<img src="Screenshot 2025-10-08 at 21.24.11.png" width="650">
 
 - *This is a simple game I created for this class in Scratch (It was my first time on Scratch). Since it is very late for me and I am very pissed at Github and myself, let's get to how this code works.*
 
