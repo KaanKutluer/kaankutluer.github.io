@@ -9,4 +9,12 @@
 
 - *Score: 19/21*
 
-<img src="Screenshot 2025-10-20 at 01.04.07.png" width="650">
+<img scr="Screenshot 2025-10-20 at 01.04.07.png" width="650">
+
+- *Questions I Got Wrong:*
+
+### ***Question 13***
+
+- *I got this VERY simple question wrong because I didn't pay enough attention to it and missed a detail which I should have noticed. So this question was rather an unluck mistake than a lack-o'-knowledge mistake. (I picked B while the answer is supposed to be A)
+
+  <img src
