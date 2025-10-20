@@ -9,4 +9,4 @@
 
 
 
-[Code](https://github.com/KaanKutluer/kaankutluer.github.io/blob/main/Assets/SwiftBinaryChallenge/ContentView4.md)
+[Code](https://github.com/KaanKutluer/kaankutluer.github.io/blob/main/Assets/SwiftBinaryChallenge/ContentView4.Swift)
