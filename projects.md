@@ -51,6 +51,14 @@
 
 <br>
 
+### ***My Array Map Reflection***
+
+1) I chose this theme because writing letters was simple and it made me understand the topic easier by making the concept simpler.
+
+2) I learned how to create lists with the "Array" code and how to count each item of the list by assigning them an index number. I also learned that you need to specify the types of lists for the code to function.
+
+3) If I had more items within my list, the list would simply be longer when I write the "Array" code and list my list.
+
 # ***Practice Projects***
 
 ### ***Swift Playground - Fake XOX You Can't Play***
