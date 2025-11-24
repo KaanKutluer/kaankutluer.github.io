@@ -1,4 +1,4 @@
-[Home](https://kaankutluer.github.io/kaankutluer.github.io/) | [Projects](https://kaankutluer.github.io/kaankutluer.github.io/projects.md) | [Big Ideas](https://kaankutluer.github.io/kaankutluer.github.io/big_ideas.md) | [Documentation](https://kaankutluer.github.io/kaankutluer.github.io/documentation.md)
+[Home](https://kaankutluer.github.io/kaankutluer.github.io/) | [Projects](projects.md) | [Big Ideas](big_ideas.md) | [Documentation](documentation.md)
 
 # ***Documentation***
 
