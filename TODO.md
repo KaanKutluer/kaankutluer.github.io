@@ -12,24 +12,16 @@ Swift Playground - Binary Challenge (10/10)
 
 Swift Playground - Frog Escape (7/10)
 
-Hot Chocolate Machine — Pseudocode & Swift
+Hot Chocolate Machine — Pseudocode & Swift (10/10)
 
-Cryptography: Caesar Cipher Activity
+Cryptography: Caesar Cipher Activity (10/10)
 
-Unplugged to Coding: Cryptography Projects
+Unplugged to Coding: Cryptography Projects (10/10)
 
-Swift Playground - World Clock V1
+Swift Playground - Fake XOX (10/10)
 
-Swift Playground - List Project Ice Cream
+Swift Playground - Self Portrait (10/10)
 
-Figma - Swift Design Challeng V1
+Swift Playground - Calc-Calc Calculator (10/10)
 
-Swift Playground - Pixel Painter
-
-Swift Playground - Fake XOX
-
-Swift Playground - Self Portrait
-
-Swift Playground - Calc-Calc Calculator
-
-Scratch - Toe Tac Tic
+Scratch - Toe Tac Tic (10/10)
