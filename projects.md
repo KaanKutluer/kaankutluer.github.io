@@ -48,8 +48,6 @@
 
 <img src="Screenshot 2025-10-20 at 00.05.08.png" width="650">
 
-<br>
-
 ### ***My Array Map Reflection***
 
 1) I chose this theme because writing letters was simple and it made me understand the topic easier by making the concept simpler.
@@ -57,6 +55,14 @@
 2) I learned how to create lists with the "Array" code and how to count each item of the list by assigning them an index number. I also learned that you need to specify the types of lists for the code to function.
 
 3) If I had more items within my list, the list would simply be longer when I write the "Array" code and list my list.
+
+### ***Ice Cream Project***
+
+- *An app that shows you the flavors of ice cream you can pick on a list and their unique size values.*
+
+<img src="Screenshot 2025-11-19 at 22.46.43.png" width="650">
+
+<br>
 
 # ***Practice Projects***
 
