@@ -21,3 +21,7 @@
 [Swift Calculator](Documentation/SwiftCalc.md)
 
 [Swift XOX](Documentation/SwiftXOX.md)
+
+[World List V1](Documentation/WorldListV1.md)
+
+[Ice Cream List/Project](Documentation/IceCreamProject.md)
