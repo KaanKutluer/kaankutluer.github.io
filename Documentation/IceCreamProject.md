@@ -7,6 +7,4 @@
 
 ### ***Ice Cream Project***
 
--
-
 [Code](https://github.com/KaanKutluer/kaankutluer.github.io/blob/main/Assets/IceCreamProject/ContentView.Swifto1.md)
