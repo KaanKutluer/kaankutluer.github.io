@@ -10,6 +10,10 @@ Swift Playground - Scoop Overflow (10/10)
 
 Swift Playground - Binary Challenge (10/10)
 
+Swift Playground - Ice Cream List/Project (10/10)
+
+Swift Playground - World List V1 (10/10)
+
 Swift Playground - Frog Escape (7/10)
 
 Swift Playground - Fake XOX (10/10)
