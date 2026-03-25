@@ -25,3 +25,7 @@
 [World List V1](Documentation/WorldListV1.md)
 
 [Ice Cream List/Project](Documentation/IceCreamProject.md)
+
+[BINARY SEARCH PROTOCOL Swift Project](Documentation/BINARYSEARCHPROTOCOLProject.md)
+
+[Rock-Paper-Scissors](Documentation/Rock-Paper-ScissorsProject.md)
